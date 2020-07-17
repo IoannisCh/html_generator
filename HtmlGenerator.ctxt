@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HtmlGenerator
+comment0.text=\r\n\ HtmlGenerator\ contains\ the\ methods\ that\ are\ implemented\ actually\ with\ co-operation\ with\ other\ classes\ in\ order\ the\ final\r\n\ product\ to\ be\ created.\ The\ HtmlGenerator\ method\ will\ create\ the\ frame,\ and\ addElement\ is\ creating\ each\ of\ them,\ while\ generate\r\n\ method\ will\ do\ so\ for\ as\ many\ we\ want,\ something\ we\ determined\ in\ the\ HtmlDocument.\r\n\r\n\ @author\ Ioannis\ Chantolios\r\n\ @version\ 07/01/2018\r\n
+comment1.params=
+comment1.target=HtmlGenerator()
+comment2.params=element
+comment2.target=void\ addElement(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ generate()
+numComments=4

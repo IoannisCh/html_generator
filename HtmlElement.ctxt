@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HtmlElement
+comment0.text=\r\n\ The\ interface\ bellow\ contain\ the\ three\ methods\ that\ are\ implemented\ to\ the\ HtmlDocument\ in\ order\ to\ create\ the\ html\ objects\ \r\n\ we\ want.\r\n\r\n\ @author\ Ioannis\ Chantolios\r\n\ @version\ 07/01/2018\r\n
+comment1.params=
+comment1.target=java.lang.String\ startBlock()
+comment2.params=value
+comment2.target=java.lang.String\ addValue(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ endBlock()
+numComments=4

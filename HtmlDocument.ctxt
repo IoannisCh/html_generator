@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HtmlDocument
+comment0.text=\r\n\ In\ this\ class\ we\ have\ four\ methods.\ One\ private,\ one\ constructor\ which\ intializes,\ a\ create\ method\ under\ which\r\n\ our\ html\ objects\ are\ created\ and\ a\ save\ method\ which\ will\ save\ our\ final\ result\ in\ a\ file.\r\n\r\n\ @author\ Ioannis\ Chantolios\r\n\ @version\ 07/01/2018\r\n
+comment1.params=
+comment1.target=HtmlDocument()
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=void\ save()
+numComments=4

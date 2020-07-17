@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HtmlParagraph
+comment0.text=\r\n\ HtmlParagraph\ is\ creating\ the\ element\ of\ a\ paragraph\ in\ the\ web\ site.\ Here\ we\ modified\ the\ addValue\ to\ return\ a\ value.\r\n\r\n\ @author\ Ioannis\ Chatolios\r\n\ @version\ 07/01/2018\r\n
+comment1.params=
+comment1.target=HtmlParagraph()
+comment2.params=
+comment2.target=java.lang.String\ startBlock()
+comment3.params=value
+comment3.target=java.lang.String\ addValue(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ endBlock()
+numComments=5

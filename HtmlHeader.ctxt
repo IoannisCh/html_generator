@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HtmlHeader
+comment0.text=\r\n\ HtmlHeader\ will\ create\ the\ element\ of\ header\ in\ the\ web\ site.\ Here\ we\ modified\ the\ addValue\ to\ return\ a\ value.\r\n\r\n\ @author\ Ioannis\ Chantolios\r\n\ @version\ 07/01/2018\r\n
+comment1.params=
+comment1.target=HtmlHeader()
+comment2.params=
+comment2.target=java.lang.String\ startBlock()
+comment3.params=value
+comment3.target=java.lang.String\ addValue(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ endBlock()
+numComments=5
